@@ -1,2 +1,2 @@
 # Genome-Network
-Genomic Network Project
+Genomic Network Project using NetworkX to graphically analyze genomic relationships.
